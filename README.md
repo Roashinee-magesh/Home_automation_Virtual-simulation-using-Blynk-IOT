@@ -39,9 +39,8 @@ Wiring in PicSimLab:
 
 ## Code Structure
 - home_automation_blynk_controlled.ino and main.h: Core logic, Blynk handlers, timer updates
-- `ldr.cpp and lpp.hh`: Ambient light-based PWM brightness control
+- `ldr.cpp and lpp.h`: Ambient light-based PWM brightness control
 - `temperature_system.cpp and temperature_system.h`: LM35 reading, heater/cooler relay control
 - `serial_tank.cpp and serial_tank.h`: Serial commands for tank volume/valve control
 
 
-Built by [Your Name/GitHub] for IoT learning and home automation prototyping.
