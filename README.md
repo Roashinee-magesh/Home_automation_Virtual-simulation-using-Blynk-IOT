@@ -12,7 +12,7 @@ Light Automation: LDR-based brightness control for garden/ambient lighting
 - Arduino UNO (main controller)
 - LM35 temperature sensor (analog A0)
 - LDR module (light sensing, analog A1)
-- Ultrasonic/pressure-based water tank level sensor (serial communication)
+- water tank level sensor (serial communication)
 - Relay modules (heater pin 2, cooler pin 3)
 - Solenoid valves (inlet pin 4, outlet pin 5 via serial)
 - I2C LCD (0x27 address, 16x2)
